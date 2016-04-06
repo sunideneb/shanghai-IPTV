@@ -1,4 +1,4 @@
-cd /jffs
+cd /jffs/scripts
 wget --no-check-certificate https://raw.githubusercontent.com/yunalan/Shanghai-Telecom-4k-iptv-with-merlin/master/4-start
 chomod -R 0755 4k-start
 cd /jffs/ss/redchn
