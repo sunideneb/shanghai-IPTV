@@ -6,5 +6,7 @@ source /usr/sbin/helper.sh
 
 pc_replace "cache-size=1500" "cache-size=9999" $CONFIG
 
-pc_append "dhcp-option-force=125,00:00:00:00:1a:02:06:48:47:57:2d:43:54:03:04:5a:58:48:4e:0a:02:20:00:0b:02:00:55:0d:02:00:2e" /tmp/etc/dnsmasq.conf
+pc_append "dhcp-option-force=125,00:00:00:00:1a:02:06:48:47:57:2d:43:54:03:04:5a:58:48:4e:0a:02:20:00:0b:02:00:55:0d:02:00:2e
+dhcp-option=15
+dhcp-option=28" /tmp/etc/dnsmasq.conf
 robocfg vlan 51 ports "0t 4t 5t" vlan 85 ports "0t 4t 5t"
