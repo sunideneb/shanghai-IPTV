@@ -2,3 +2,4 @@
   -fix remove vlan 5t
   -fix add vlan 8t
   -fix remove ss in noss file
+  -add lan1-3 with iptv
