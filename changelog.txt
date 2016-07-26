@@ -1,5 +1,8 @@
+2016.07.26
+  -fix remove extra dhcp option 125
+  -fix rewrite sh-4kiptv.sh
 2016.05.03
   -fix remove vlan 5t
   -fix add vlan 8t
   -fix remove ss in noss file
-  -add lan1-3 with iptv
+  -add add lan1-3 with iptv
