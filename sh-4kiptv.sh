@@ -8,7 +8,7 @@ ping 127.0.0.1 -c 2 > /dev/null
 echo 本提示保留5秒，如果您不是merlin改版固件请立刻按下Ctrl+C中止本脚本
 ping 127.0.0.1 -c 10 > /dev/null
 echo 本脚本适用于上海需要AB面认证的IPTV，其他地区请按实际情况修改脚本
-ping 127.0.0.1 -c 3 > /dev/null
+ping 127.0.0.1 -c 2 > /dev/null
 echo 使用前请确认光猫已经按教程设置好
 ping 127.0.0.1 -c 2 > /dev/null
 echo 请确认ss是working状态，或者是关闭状态，否则会导致脚本运行失败
