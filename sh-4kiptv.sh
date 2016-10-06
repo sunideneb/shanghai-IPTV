@@ -5,6 +5,8 @@ echo 欢迎使用本脚本，本脚本发布在koolshare，转载请注明
 ping 127.0.0.1 -c 2 > /dev/null
 echo 本脚本只适用于merlin改版固件，其他固件请勿运行本脚本，以免造成不可预料后果
 ping 127.0.0.1 -c 2 > /dev/null
+echo 以及仅支持7.0及以下固件，7.1及以上由于目录改变不支持本脚本，请到原贴下载新脚本
+ping 127.0.0.1 -c 2 > /dev/null
 echo 本提示保留5秒，如果您不是merlin改版固件请立刻按下Ctrl+C中止本脚本
 ping 127.0.0.1 -c 10 > /dev/null
 echo 本脚本适用于上海需要AB面认证的IPTV，其他地区请按实际情况修改脚本
