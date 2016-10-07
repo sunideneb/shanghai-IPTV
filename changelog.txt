@@ -1,3 +1,5 @@
+2016.10.07
+  -fix support merlin 7.1 or high , Must Install shadowsocks
 2016.07.26
   -fix remove extra dhcp option 125
   -fix rewrite sh-4kiptv.sh
