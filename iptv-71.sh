@@ -62,19 +62,12 @@ ping 127.0.0.1 -c 2 > /dev/null
 echo
 
 #脚本提示
-echo 正在修改不开启ss情况下的配置文件
+echo 正在删除不开启ss情况下的配置文件
 #移动到脚本目录
 cd /jffs/configs/dnsmasq.d
 #删除旧dnsmasq配置文件
 echo 正在删除旧文件
 rm -rf iptv.conf
-#下载新配置文件
-echo 正在下载新文件
-wget -q --no-check-certificate https://raw.githubusercontent.com/yunalan/Shanghai-Telecom-4k-iptv-with-merlin/master/noss
-#重命名新配置文件
-mv noss iptv.conf
-#设置权限
-chmod -R 0755 iptv.conf
 #完成提示
 echo 成功
 
