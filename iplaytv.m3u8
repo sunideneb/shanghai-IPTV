@@ -275,3 +275,15 @@ http://111.20.33.72/PLTV/88888888/224/3221225530/index.m3u8
 http://111.20.33.72/PLTV/88888888/224/3221225531/index.m3u8
 #EXTINF:100, Newtv精品大剧
 http://111.20.33.72/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:100, 港台-翡翠HD
+http://pulllive-al.wasu.cn/live/jade.m3u8
+#EXTINF:100, 河北卫视HD
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:100, 旅游卫视HD
+http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
+#EXTINF:100, 韩国4K
+http://119.194.30.67:9981/stream/channelid/1253361577?ticket=AE6F4ECC002FB1886A7310AFE9D8DFFE6A3F20DB&profile=pass
+#EXTINF:100, Knews24移动
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
+#EXTINF:100, 布丁台
+http://61.216.177.73/sta/ch1864038.m3u8
